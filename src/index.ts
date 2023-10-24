@@ -1,1 +1,1 @@
-export default 1
+export { default as request } from './connectors/http'
